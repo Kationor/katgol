@@ -12,7 +12,7 @@
 			"condition": "entity_properties",
 			"entity": "this",
 			"predicate": {
-				"nbt": "{data: {katgol: {isAlive: 1b, aliveNeighbors: 4b}}}"
+				"nbt": "{data: {katgol: {isAlive: true, aliveNeighbors: 4b}}}"
 			}
 		}
 	]
